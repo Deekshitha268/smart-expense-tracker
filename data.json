@@ -1,0 +1,23 @@
+[
+    {
+        "title": "movies",
+        "amount": 600,
+        "category": "entertainment",
+        "date": "2026-07-23",
+        "id": 2
+    },
+    {
+        "title": "Ott platforms",
+        "amount": 1000,
+        "category": "entertainment",
+        "date": "2026-07-31",
+        "id": 3
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2026-07-31",
+        "title": "Groceries",
+        "id": 4
+    }
+]
